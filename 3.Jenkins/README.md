@@ -4,3 +4,5 @@
 3. создал ветку staging, коммитнул туда код
 4. Создал Dockerfile, собрал и запустил контейнер
 5. Установил Docker-плагин
+
+https://github.com/irgashevsardor/jenkins-task-simple-web-app
